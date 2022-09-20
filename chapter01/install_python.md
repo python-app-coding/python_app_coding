@@ -53,6 +53,7 @@ pip install --upgrade psycopg2==2.7.5
 
 ### 国内常用的镜像网站 pip from tsinghua, aliyun
 pip install [package] -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 pip install [package] -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
 
 ### 设置缺省的下载源 set default source
